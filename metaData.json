@@ -1,0 +1,12 @@
+{
+	"name": "BetCoin",
+	"symbol": "BETC",
+	"description": "BetCoins ",
+	"seller_fee_basis_points": 0,
+	"image": "https://raw.githubusercontent.com/opsportsbook/betcoin/main/logo.png",
+	"external_url": "",
+	"properties": {
+		"category": "image",
+		"files": [{}]
+	}
+}
