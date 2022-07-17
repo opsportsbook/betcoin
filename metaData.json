@@ -1,12 +1,25 @@
 {
 	"name": "BetCoin",
 	"symbol": "BETC",
-	"description": "BetCoins ",
-	"seller_fee_basis_points": 0,
 	"image": "https://raw.githubusercontent.com/opsportsbook/betcoin/main/logo.png",
-	"external_url": "",
+	"external_url": "https://opsportsbook.com/",
+	"edition": "2022",
 	"properties": {
+		"files": [
+			{
+				"uri": "https://raw.githubusercontent.com/opsportsbook/betcoin/main/logo.png",
+				"type": "image/png"
+			}
+		],
 		"category": "image",
-		"files": [{}]
-	}
+		"creators": [
+			{
+				"address": "BZbxgppCpxdkUEBLceQ2xFg18bcCxZ7UyfYgKyuS8jy7",
+				"verified": 1,
+				"share": 100
+			}
+		]
+	},
+	"description": "YOU CAN USE BETCOIN IN OPSPORTSBOOK.COM. BY USING THESE COINS YOU CAN BET ON YOUR FAVORITE GAMES AND CAN WIN A LOT OF COINS AND CONVERT THEM INTO SOLANA",
+	"seller_fee_basis_points": 0
 }
